@@ -25,7 +25,7 @@ en: &DEFAULT_EN
   services:
     title: "Club Calendar"
     text: "Take a look at our gaming schedule ;)"
-    body: "calender:"
+    body: "calender link: https://calendar.google.com/calendar/embed?src=solisa%40allegheny.edu&ctz=America%2FNew_York"
     section: services
 
   timeline:
