@@ -17,8 +17,6 @@ en: &DEFAULT_EN
       section: services
     - title: "Timeline"
       section: timeline
-    - title: "About"
-      section: about
     - title: "Board"
       section: team
     - title: "Contact"

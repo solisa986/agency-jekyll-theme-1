@@ -59,12 +59,6 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "Club Motto"
-    text: "Why we do what we do"
-    body: "Our goal as a club is to provide a competitive and friendly community for all video game enjoyers."
-    section: about
-
   team:
     title: "OUR AMAZING BOARD"
     text: "Meet our 2021-2022 Allegheny ESports Board Members!"
