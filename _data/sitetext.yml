@@ -25,6 +25,7 @@ en: &DEFAULT_EN
   services:
     title: "Club Calendar"
     text: "Take a look at our gaming schedule ;)"
+    body: " "
     section: services
 
   timeline:
