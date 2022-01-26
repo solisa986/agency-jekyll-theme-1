@@ -104,12 +104,13 @@ footer:
     legal: "Privacy Policy"
     social:
       - url: https://instagram.com
-        icon: fab fa-instagram
+        icon: "fab fa-instagram"
       - url: https://discord.gg/fkqKwNey
-        icon: fab fa-discord
+        icon: "fab fa-discord"
       - url: mailto:solisa@allegheny.edu&subject=Mail
-        icon: fab fa-squarespace
+        icon: "fab fa-squarespace"
 
+en-US:
   <<: *DEFAULT_EN
 en-CA:
   <<: *DEFAULT_EN
