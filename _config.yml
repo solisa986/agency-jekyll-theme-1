@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Allegheny ESports
 email      : solisa@allegheny.edu #this is also the email contact forms will go to
-description: "site for the esports team"
+description: "a public site for the esports team"
 author     : Adriana Solis
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
