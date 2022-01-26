@@ -18,19 +18,19 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Club Teams"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Meet the members of our club, who work to make sure that Allegheny retains their competitive rank."
     section: portfolio
     closebutton: "Close Project"
 
   services:
     title: "Club Calendar"
-    text: "Lorem ipsum"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Take a look at our gaming schedule ;)"
+    body: "calender:"
     section: services
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "A brief history about the Allegheny Esports club."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -61,18 +61,18 @@ en: &DEFAULT_EN
 
   about:
     title: "Club Motto"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Why we do what we do"
+    body: "Our goal as a club is to provide a competitive and friendly community for all video game enjoyers."
     section: about
 
   team:
     title: "OUR AMAZING BOARD"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Meet our 2021-2022 Allegheny ESports Board Members!"
+    subtext: For inquiries related to the club, please make sure that you use the **Contact Us** section!
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Gabriel Schwartz"
+        role: "President"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -81,8 +81,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Hadi Alkhafaji"
+        role: "Vice President"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -91,8 +91,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Tito Mazzucchi"
+        role: "Secretary"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -101,17 +101,24 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-
+      - name: "Ian McNaughton"
+        role: "Treasurer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Send us a message!"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
