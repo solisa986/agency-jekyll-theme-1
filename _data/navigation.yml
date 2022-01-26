@@ -11,19 +11,19 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
+    - title: "Club Teams"
       section: portfolio
-    - title: "About"
-      section: about
+    - title: "Club Calendar"
+      section: portfolio
     - title: "Timeline"
       section: timeline
-    - title: "Team"
+    - title: "About"
+      section: about
+    - title: "Board Members"
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
+    - title: "Allegheny ESports"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN

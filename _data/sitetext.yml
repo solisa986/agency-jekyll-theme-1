@@ -14,15 +14,15 @@ en: &DEFAULT_EN
     title: Welcome to our Club Website!
     text: We Look Forward to Gaming With You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
 
-  services:
+  portfolio:
     title: "Club Teams"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
 
-  portfolio:
+  services:
     title: "Club Calendar"
     text: "Lorem ipsum"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
