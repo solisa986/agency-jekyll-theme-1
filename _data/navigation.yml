@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Club Teams"
+    - title: "Teams"
       section: portfolio
-    - title: "Club Calendar"
-      section: portfolio
+    - title: "Calendar"
+      section: services
     - title: "Timeline"
       section: timeline
     - title: "About"
       section: about
-    - title: "Board Members"
+    - title: "Board"
       section: team
     - title: "Contact"
       section: contact
