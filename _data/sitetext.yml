@@ -19,15 +19,14 @@ en: &DEFAULT_EN
   services:
     title: "Club Teams"
     text: "Lorem ipsum dolor sit amet consectetur."
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: portfolio
     closebutton: "Close Project"
 
   portfolio:
     title: "Club Calendar"
     text: "Lorem ipsum"
-    section: portfolio
-    closebutton: "Close Project"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: services
 
   timeline:
     title: "Timeline"
