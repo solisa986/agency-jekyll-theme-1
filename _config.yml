@@ -29,6 +29,8 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 analytics:
   google: #Google Analytics tracking code here
 
+formspree_form_path: "f/1863967001509100942"
+
 collections:
   portfolio:
 

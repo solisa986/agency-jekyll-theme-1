@@ -106,7 +106,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Adriana Solis"
-        role: "Personal Relations"
+        role: "Social Chair"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -116,7 +116,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Shira Haus"
-        role: "Freelance Writer"
+        role: "Personal Relations Chair"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
