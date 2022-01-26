@@ -66,7 +66,7 @@ en: &DEFAULT_EN
     people:
       - name: "Gabriel Schwartz"
         role: "President"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -86,7 +86,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Tito Mazzucchi"
         role: "Secretary"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -96,7 +96,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Ian McNaughton"
         role: "Treasurer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
