@@ -19,8 +19,6 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Board"
       section: team
-    - title: "Contact"
-      section: contact
     - title: "Allegheny ESports"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
