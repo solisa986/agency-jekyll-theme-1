@@ -1,19 +1,14 @@
 ---
-caption:
-  title: Project Name
-  subtitle: Lorem ipsum dolor sit amet consectetur.
-  image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-  alt: Keep Exploring
+caption: #what displays in the portfolio grid:
+  title: League of Legends
+  subtitle: Team A
+  thumbnail: assets/img/portfolio/4.jpg
 
-title:
-image:
+#what displays when the item is clicked:
+title: Member List
+subtitle: Meet the members of the 2021 League of Legends A Team
+image: assets/img/portfolio/05-thumbnail.jpg #main image, can be a link or a file in assets/img/portfolio
+alt: image alt text
 
 ---
-
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+List the league team A

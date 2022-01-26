@@ -1,19 +1,14 @@
 ---
-caption:
-  title: Project Threads
-  subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-  image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-  alt: Shirts on a hanger
+caption: #what displays in the portfolio grid:
+  title: Overwatch
+  subtitle: Team B
+  thumbnail: assets/img/portfolio/4.jpg
 
-title:
-image:
+#what displays when the item is clicked:
+title: Member List
+subtitle: Meet the members of the 2021 Overwatch B Team
+image: assets/img/portfolio/05-thumbnail.jpg #main image, can be a link or a file in assets/img/portfolio
+alt: image alt text
 
 ---
-
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-
-{:.list-inline}
-
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+List the overwatch team B
