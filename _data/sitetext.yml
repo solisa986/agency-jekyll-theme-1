@@ -108,7 +108,7 @@ footer:
       - url: https://discord.gg/fkqKwNey
         icon: "fab fa-discord"
       - url: "mailto:solisa@allegheny.edu&subject=Mail"
-        icon: :fab fa-envelope-open-text"
+        icon: :fab fa-squarespace"
 
   <<: *DEFAULT_EN
 en-CA:
