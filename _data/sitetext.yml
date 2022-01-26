@@ -126,19 +126,6 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-  contact:
-    title: "Contact Us"
-    text: "Send us a message!"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
-
   footer:
     legal: "Privacy Policy"
     social:
