@@ -28,10 +28,10 @@ en: &DEFAULT_EN
     body: " "
     section: services
 
-timeline:
-  title: "Follow our Twitch Stream"
-  text: " "
-  section: timeline
+  timeline:
+    title: "Follow our Twitch Stream"
+    text: " "
+    section: timeline
 
   team:
     title: "OUR AMAZING BOARD"
@@ -100,7 +100,7 @@ timeline:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-  footer:
+footer:
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com
