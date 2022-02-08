@@ -14,7 +14,7 @@ alt: image alt text
 <h1 align = "center">Description</h1>
 <p align = "center">Allegheny College's nationally ranked top 100 Overwatch team.</p>
 
-<h3 align = "center">Subheading</h3>
+<h3 align = "center">Members</h3>
 <hr class = "solid">
 <br>
 <img src="assets/img/portfolio/4.jpg" alt="Daniel Sanchez" height = "300" width = "300" align = "left">
