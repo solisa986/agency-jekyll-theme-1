@@ -17,7 +17,7 @@ alt: image alt text
 <h3 align = "center">Subheading</h3>
 <hr class = "solid">
 <br>
-<img src="assets/img/portfolio/4.jpg" alt="Daniel Sanchez" height = "100" width = "100">
+<img src="assets/img/portfolio/4.jpg" alt="Daniel Sanchez" height = "300" width = "300">
 <br>
 Daniel Sanchez, ***Tank***
   - *Major:* Economics
