@@ -17,14 +17,16 @@ alt: image alt text
 <h3 align = "center">Subheading</h3>
 <hr class = "solid">
 <br>
-<img src="assets/img/portfolio/4.jpg" alt="Daniel Sanchez" height = "300" width = "300">
+<img src="assets/img/portfolio/4.jpg" alt="Daniel Sanchez" height = "300" width = "300" align = "left">
 <br>
-Daniel Sanchez, ***Tank***
-  - *Major:* Economics
-  - *Minor:* Arabic
-  - *Class year:* Junior
-  - *Favorite Games:* Overwatch, Monster Hunter, Borderlands 2, Pokémon
 
+<p align = "center">Daniel Sanchez, <b><i>Tank</b></i></p>
+<ul>
+<li align = "center"><i>Major: </i> Economics</li>
+<li align = "center"><i>Minor: </i> Arabic</li>
+<li align = "center"><i>Class: </i> Junior</li>
+<li align = "center"><i>Favorite Games: </i> Overwatch, Monster Hunter, Borderlands 2, Pokémon</li>
+</ul>
 <hr class="dotted">
 
 Jesse "Brady" Mossberger ***Tank***
