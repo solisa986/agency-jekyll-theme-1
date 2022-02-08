@@ -11,10 +11,10 @@ image: assets/img/portfolio/05-thumbnail.jpg #main image, can be a link or a fil
 alt: image alt text
 
 ---
-<h3 class="card-heading" align = "center">Description</h3>
+<h1 align = "center">Description</h1>
 <p align = "center">Allegheny College's nationally ranked top 100 Overwatch team.</p>
 
-<h2 class="card-subheading" align = "center">Subheading</h2>
+<h3 align = "center">Subheading</h3>
 <hr class = "solid">
 <br>
 <img src="assets/img/portfolio/4.jpg" alt="Daniel Sanchez" height = "100" width = "100">
