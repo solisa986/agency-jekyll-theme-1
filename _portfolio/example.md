@@ -12,45 +12,55 @@ alt: image alt text
 
 ---
 <H1 align="center">Description</H1>
-<summary align = "center">Allegheny College's nationally ranked top 100 Overwatch team.</summary>
+<p align = "center">Allegheny College's nationally ranked top 100 Overwatch team.</p>
 
-### Members
+#### Members
 
-- Daniel Sanchez, ***Tank***
+Daniel Sanchez, ***Tank***
   - *Major:* Economics
   - *Minor:* Arabic
   - *Class year:* Junior
-  - *Favorite Games:* Overwatch, Monster Hunter, Borderlands 2, Pokémon.
+  - *Favorite Games:* Overwatch, Monster Hunter, Borderlands 2, Pokémon
 
-- Jesse "Brady" Mossberger ***Tank***
+<hr class="dotted">
+
+Jesse "Brady" Mossberger ***Tank***
 
   - *Major:* Biology
   - *Minor:* Psychology
   - *Class year:* Freshman
   - *Favorite Games:* FPS games, Overwatch, Counterstrike, COD Zombies
 
-- Gabriel Schwartz, ***DPS***
+<hr class="dotted">
+
+Gabriel Schwartz, ***DPS***
 
   - *Major:* History
   - *Minor:* Computer Science
   - *Class year:* Junior
   - *Favorite Games:* Overwatch, CS Go, The Witcher 3, Dishonored
 
-- Caleb Noon, ***DPS***
+<hr class="dotted">
+
+Caleb Noon, ***DPS***
 
   - *Major:* Business
   - *Minor:* Chinese
   - *Class year:* Junior
   - *Favorite Games:* Overwatch, League of Legends, Valorant
 
-- Alish Chhetri, ***Support***
+<hr class="dotted">
+
+Alish Chhetri, ***Support***
 
   - *Major:* Physics
   - *Minor:* Computer Science
   - *Class year:* Freshman
   - *Favorite Games:* Overwatch, Planet Zoo, League of Legends
 
-- Isaac Hammer, ***Support***
+<hr class="dotted">
+
+Isaac Hammer, ***Support***
 
   - *Major:* Gender Studies
   - *Minor:* Community and Justice
