@@ -20,13 +20,14 @@ alt: image alt text
 <img src="assets/img/portfolio/4.jpg" alt="Daniel Sanchez" height = "300" width = "300" align = "left">
 <br>
 
-<p align = "center">Daniel Sanchez, <b><i>Tank</b></i></p>
+<p align = "center">Daniel Sanchez, <b>Tank</b></p>
 <ul>
 <li align = "center"><i>Major: </i> Economics</li>
 <li align = "center"><i>Minor: </i> Arabic</li>
 <li align = "center"><i>Class: </i> Junior</li>
 <li align = "center"><i>Favorite Games: </i> Overwatch, Monster Hunter, Borderlands 2, Pokémon</li>
 </ul>
+
 <hr class="dotted">
 
 Jesse "Brady" Mossberger ***Tank***
