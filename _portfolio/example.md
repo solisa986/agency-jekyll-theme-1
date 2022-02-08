@@ -18,6 +18,7 @@ alt: image alt text
 <hr class = "solid">
 <br>
 <img src="assets/img/portfolio/4.jpg" alt="Daniel Sanchez">
+<br>
 Daniel Sanchez, ***Tank***
   - *Major:* Economics
   - *Minor:* Arabic
