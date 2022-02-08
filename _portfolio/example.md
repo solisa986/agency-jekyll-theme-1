@@ -20,7 +20,7 @@ alt: image alt text
 <img src="assets/img/portfolio/4.jpg" alt="Daniel Sanchez" height = "300" width = "300" align = "left">
 <br>
 
-<p align = "center">Daniel Sanchez, <b>Tank</b></p>
+<p align = "center"><b>Daniel Sanchez, </b><i>Tank</i></p>
 <ul>
 <li align = "center"><i>Major: </i> Economics</li>
 <li align = "center"><i>Minor: </i> Arabic</li>
@@ -30,11 +30,12 @@ alt: image alt text
 <br>
 
 <hr class="dotted">
+<br>
 
 <img src="assets/img/portfolio/4.jpg" alt="Brady" height = "300" width = "300" align = "left">
 <br>
 
-<p align = "center">Jesse "Brady" Mossberger, <b>Tank</b></p>
+<p align = "center"><b>Jesse "Brady" Mossberger, </b><i>Tank</i></p>
 <ul>
 <li align = "center"><i>Major: </i> Biology</li>
 <li align = "center"><i>Minor: </i> Psychology</li>
@@ -44,11 +45,12 @@ alt: image alt text
 <br>
 
 <hr class="dotted">
+<br>
 
 <img src="assets/img/portfolio/4.jpg" alt="Gabe" height = "300" width = "300" align = "left">
 <br>
 
-<p align = "center">Gabriel Schwartz, <b>DPS</b></p>
+<p align = "center"><b>Gabriel Schwartz, </b><i>DPS</i></p>
 <ul>
 <li align = "center"><i>Major: </i> History</li>
 <li align = "center"><i>Minor: </i> Computer Science</li>
@@ -58,11 +60,12 @@ alt: image alt text
 <br>
 
 <hr class="dotted">
+<br>
 
 <img src="assets/img/portfolio/4.jpg" alt="Caleb" height = "300" width = "300" align = "left">
 <br>
 
-<p align = "center">Caleb Noon, <b>DPS</b></p>
+<p align = "center"><b>Caleb Noon, </b><i>DPS</i></p>
 <ul>
 <li align = "center"><i>Major: </i> Business</li>
 <li align = "center"><i>Minor: </i> Chinese</li>
@@ -72,11 +75,12 @@ alt: image alt text
 <br>
 
 <hr class="dotted">
+<br>
 
 <img src="assets/img/portfolio/4.jpg" alt="Alish" height = "300" width = "300" align = "left">
 <br>
 
-<p align = "center">Alish Chhetri, <b>Support</b></p>
+<p align = "center"><b>Alish Chhetri, </b><i>Support</i></p>
 <ul>
 <li align = "center"><i>Major: </i> Physics</li>
 <li align = "center"><i>Minor: </i> Computer Science</li>
@@ -86,11 +90,12 @@ alt: image alt text
 <br>
 
 <hr class="dotted">
+<br>
 
 <img src="assets/img/portfolio/4.jpg" alt="Isaac" height = "300" width = "300" align = "left">
 <br>
 
-<p align = "center">Isaac Hammer, <b>Support</b></p>
+<p align = "center"><b>Isaac Hammer, </b><i>Support</i></p>
 <ul>
 <li align = "center"><i>Major: </i> Computer Science</li>
 <li align = "center"><i>Minor: </i> Undecided</li>
@@ -100,3 +105,4 @@ alt: image alt text
 <br>
 
 <hr class="dotted">
+<br>
