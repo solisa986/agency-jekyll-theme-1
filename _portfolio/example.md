@@ -14,8 +14,10 @@ alt: image alt text
 <H1 align="center">Description</H1>
 <p align = "center">Allegheny College's nationally ranked top 100 Overwatch team.</p>
 
-#### Members
-
+<p align = "center"><b>Members</b></p>
+<hr class = "solid">
+<br>
+<img src="assets/img/portfolio/4.jpg" alt="Daniel Sanchez">
 Daniel Sanchez, ***Tank***
   - *Major:* Economics
   - *Minor:* Arabic
