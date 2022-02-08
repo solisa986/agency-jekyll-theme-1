@@ -39,16 +39,14 @@ en: &DEFAULT_EN
     subtext: For inquiries related to the club, please make sure that you use the ***links below***!
     section: team
     people:
-      - name: "Ian Thompson"
+      - name: "Ian Thomas"
         role: "Club Advisor"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+            icon: fab fa-instagram
+          - url: https://discord.com
+            icon: "fab fa-discord"
       - name: "Gabriel Schwartz"
         role: "President"
         image: assets/img/team/2.jpg
