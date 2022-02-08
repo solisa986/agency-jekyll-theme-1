@@ -15,13 +15,17 @@ alt: image alt text
 
 Allegheny College's nationally ranked top 100 Overwatch team.
 
-### Members
-
-- Daniel Sanchez, ***Tank***
-  - *Major:* Economics
-  - *Minor:* Arabic
-  - *Class year:* Junior
-  - *Favorite Games:* Overwatch, Monster Hunter, Borderlands 2, Pokémon.
+<details>
+<summary>Members</summary>
+<br>
+<b><i>Daniel Sanchez</i></b>
+<ul>
+<li><i>Major: </i> Economics</li>
+<li><i>Minor: </i> Arabic</li>
+<li><i>Class year: </i> Junior</li>
+<li><i>Favorite Games: </i> Overwatch, Monster Hunter, Borderlands 2, Pokémon.</li>
+</ul>
+</details>
 
 - Jesse "Brady" Mossberger ***Tank***
 
