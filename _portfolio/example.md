@@ -17,7 +17,7 @@ alt: image alt text
 <H2 align = "center"><b>Members</b></H2>
 <hr class = "solid">
 <br>
-<img src="assets/img/portfolio/4.jpg" alt="Daniel Sanchez">
+<img src="assets/img/portfolio/4.jpg" alt="Daniel Sanchez" height = "500" width = "500">
 <br>
 Daniel Sanchez, ***Tank***
   - *Major:* Economics
