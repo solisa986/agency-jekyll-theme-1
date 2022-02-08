@@ -11,19 +11,16 @@ image: assets/img/portfolio/05-thumbnail.jpg #main image, can be a link or a fil
 alt: image alt text
 
 ---
-## Description
+<H1 align="center">Description</H1>
+<summary align = "center">Allegheny College's nationally ranked top 100 Overwatch team.</summary>
 
-Allegheny College's nationally ranked top 100 Overwatch team.
+### Members
 
-<summary>Members</summary>
-<br>
-Daniel Sanchez, <i><b>Tank</b></i>
-<ul>
-<li><i>Major: </i> Economics</li>
-<li><i>Minor: </i> Arabic</li>
-<li><i>Class year: </i> Junior</li>
-<li><i>Favorite Games: </i> Overwatch, Monster Hunter, Borderlands 2, Pokémon.</li>
-</ul>
+- Daniel Sanchez, ***Tank***
+  - *Major:* Economics
+  - *Minor:* Arabic
+  - *Class year:* Junior
+  - *Favorite Games:* Overwatch, Monster Hunter, Borderlands 2, Pokémon.
 
 - Jesse "Brady" Mossberger ***Tank***
 
